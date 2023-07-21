@@ -412,8 +412,8 @@ footer {
 
 @media screen and (max-width: 1000px) {
   .testimonio-imagen {
-    height: 110px;
-    width: 110px;
+    height: 80px;
+    width: 80px;
   }
 
   .testimonio-texto {
