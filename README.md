@@ -1,9 +1,18 @@
 # MI BLOG PERSONAL
+###### Por: Valeria Domínguez Barrientos
 
-##### PROYECTO FINAL
+## ⚙️INTRODUCCIÓN
+
+Este proyecto ha sido realizado como parte del bootcamp impartido por Tecnolochicas PRO, gracias a mi Beca Santander en colaboración con Fundación Televisa y Microsoft.
+
+Julio 2023.
+
+## 🛠 Objetivo
 
 El propósito de esta página web es mostrar el portafolio de los proyectos que he realizado como comunicóloga y como desarrolladora así como mi experiencia profesional. Incluye una descripción breve de mis proyectos, mi experiencia y formas de contacto. 
 
+## 🖥 Resultado
+Visualiza el proyecto final 🔸[AQUÍ](https://axolotitos-byvalerydom.netlify.app/)🔸
 ### Capturas de pantalla:
 
 Primera parte de la página web:
@@ -26,7 +35,7 @@ Contacto:
 
 ![contacto](https://github.com/valerydom/MI-BLOG-PERSONAL/assets/139601134/1e0daf40-38ad-468f-ac4a-ee7a7a195eab)
 
-## Tecnologías
+## 💾 Tecnologías
 
 Esta página web fue creada con:
 
@@ -37,6 +46,6 @@ Esta página web fue creada con:
 
 Además, se incluyeron **Google Fonts** para personalizar la fuente y **Bootstrap icons** para incorporar íconos como flechas y logos de redes sociales populares. 
 
-## Español
+## 🌎 Idioma
 
 El texto de la página web está escrito en español, al igual que las clases y atributos personalizados. Las clases relacionadas con Bootstrap se incluyeron en inglés.
