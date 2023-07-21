@@ -1,32 +1,30 @@
-# Portafolio Adaptable (Responsive) con Bootstrap 5
+# MI BLOG PERSONAL
 
-Este proyecto creado para el bootcamp Tecnolochicas PRO, es una página web adaptable a dispositivos de distintos tamaños (este tipo de sitio web se conoce en inglés como "responsive"). 
+##### PROYECTO FINAL
 
-El propósito de esta página web es mostrar el portafolio de proyectos de un(a) desarrollador(a) y su experiencia. Incluye una descripción breve de su motivación, experiencia, proyectos, artículos publicados y formas de contacto. 
-
-También incluye imágenes alternativas en la carpeta `imagenes` en caso de que se desee personalizar la imagen principal del desarrollador, además de animación a la escritura de la página web con JavaScript.
+El propósito de esta página web es mostrar el portafolio de los proyectos que he realizado como comunicóloga y como desarrolladora así como mi experiencia profesional. Incluye una descripción breve de mis proyectos, mi experiencia y formas de contacto. 
 
 ### Capturas de pantalla:
 
 Primera parte de la página web:
 
-![Primera parte de la página web](imagenes/screenshot1.png)
+![principal](https://github.com/valerydom/MI-BLOG-PERSONAL/assets/139601134/410eef44-489b-42c4-8e82-0ab20a5bfec3)
 
 Experiencia:
 
-![Experiencia](imagenes/screenshot2.png)
+![experiencia](https://github.com/valerydom/MI-BLOG-PERSONAL/assets/139601134/8c6432b4-5329-440c-96f4-df948622515a)
 
 Proyectos:
 
-![Proyectos](imagenes/screenshot3.png)
+![proyectos](https://github.com/valerydom/MI-BLOG-PERSONAL/assets/139601134/f056c990-c0a1-4536-810a-c7c93cb43134)
 
 Testimonios:
 
-![Testimonios](imagenes/screenshot4.png)
+![testimonios](https://github.com/valerydom/MI-BLOG-PERSONAL/assets/139601134/1932b005-2bf8-4852-8e12-068e546ba0da)
 
 Contacto:
 
-![Contacto](imagenes/screenshot5.png)
+![contacto](https://github.com/valerydom/MI-BLOG-PERSONAL/assets/139601134/1e0daf40-38ad-468f-ac4a-ee7a7a195eab)
 
 ## Tecnologías
 
@@ -42,7 +40,3 @@ Además, se incluyeron **Google Fonts** para personalizar la fuente y **Bootstra
 ## Español
 
 El texto de la página web está escrito en español, al igual que las clases y atributos personalizados. Las clases relacionadas con Bootstrap se incluyeron en inglés.
-
-
-
-
