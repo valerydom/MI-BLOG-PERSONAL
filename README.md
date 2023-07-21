@@ -12,7 +12,7 @@ Julio 2023.
 El propósito de esta página web es mostrar el portafolio de los proyectos que he realizado como comunicóloga y como desarrolladora así como mi experiencia profesional. Incluye una descripción breve de mis proyectos, mi experiencia y formas de contacto. 
 
 ## 🖥 Resultado
-Visualiza el proyecto final 🫧[AQUÍ](valery-dom.netlify.app)🫧
+Visualiza el proyecto final 🫧[AQUÍ](https://valery-dom.netlify.app)🫧
 ### Capturas de pantalla:
 
 Primera parte de la página web:
