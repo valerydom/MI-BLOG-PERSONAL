@@ -414,6 +414,7 @@ footer {
   .testimonio-imagen {
     height: 80px;
     width: 80px;
+    margin: 0px;
   }
 
   .testimonio-texto {
